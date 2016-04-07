@@ -22,7 +22,7 @@ Install [Go](https://golang.org/dl/).
 Clone this repo and switch into it:
 
 ```
-$ go get https://github.com/txcsmad/will-it-rain
+$ go get github.com/txcsmad/will-it-rain
 $ cd $GOPATH/src/github.com/txcsmad/will-it-rain
 ```
 
